@@ -3,4 +3,15 @@
     "repository": "TeamExodus/device_oppo_find7-common",
     "target_path": "device/oppo/find7-common"
   }
+
+  {
+    "repository": "TeamExodus/vendor_oppo_find7-common",
+    "target_path": "vendor/oppo/find7-common"
+  }
+
+  {
+    "repository": "TeamExodus/vendor_oppo_msm8974-common",
+    "target_path": "vendor/oppo/msm8974-common"
+  }
+
 ]
